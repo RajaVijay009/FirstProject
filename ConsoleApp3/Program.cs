@@ -10,10 +10,7 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            args = new string[5];
-            args[0] = "Vijay";
-            Console.WriteLine("Hello " + args[0]);
-            Console.ReadKey();
+            Console.WriteLine("Hello World India");
         }
     }
 }
