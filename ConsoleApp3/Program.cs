@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +13,7 @@ namespace ConsoleApp3
             args = new string[5];
             args[0] = "Vijay";
             Console.WriteLine("Hello " + args[0]);
-            Console.WriteLine("James J");
+            Console.WriteLine("James Zy");
             Console.ReadKey();
         }
     }
