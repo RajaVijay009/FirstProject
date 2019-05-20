@@ -13,7 +13,7 @@ namespace ConsoleApp3
             args = new string[5];
             args[0] = "Vijay";
             Console.WriteLine("Hello " + args[0]);
-            Console.WriteLine("hi");
+            Console.WriteLine("James");
             Console.ReadKey();
         }
     }
